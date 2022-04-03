@@ -1,4 +1,4 @@
-# HEllo Alexander and other casual viewer!!
+# Hello Alexander and other casual viewer!!
 It is my *second* attempt of working with github classroom
 **A little code review:**
 1)Every mistakes in my first lab were fixed
