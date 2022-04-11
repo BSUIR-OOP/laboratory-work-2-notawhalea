@@ -1,0 +1,30 @@
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\bin\Debug\LabWork2.exe.config
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\bin\Debug\LabWork2.exe
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\bin\Debug\LabWork2.pdb
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.csproj.AssemblyReference.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.Form1.resources
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.Properties.Resources.resources
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.csproj.GenerateResource.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.csproj.CoreCompileInputs.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.exe
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\Код\LabWork2\obj\Debug\LabWork2.pdb
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.csproj.AssemblyReference.cache
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.Form1.resources
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.Properties.Resources.resources
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.csproj.GenerateResource.cache
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.csproj.CoreCompileInputs.cache
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.exe
+D:\Labs4Sem\LabWork2\obj\Debug\LabWork2.pdb
+D:\Labs4Sem\LabWork2\bin\Debug\LabWork2.exe.config
+D:\Labs4Sem\LabWork2\bin\Debug\LabWork2.exe
+D:\Labs4Sem\LabWork2\bin\Debug\LabWork2.pdb
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\bin\Debug\LabWork2.exe.config
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\bin\Debug\LabWork2.exe
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\bin\Debug\LabWork2.pdb
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.AssemblyReference.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.Form1.resources
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.Properties.Resources.resources
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.GenerateResource.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.csproj.CoreCompileInputs.cache
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.exe
+D:\БГУИР\2 курс\4 семестр\ООТПиСП\Лабораторные\Лаба2\LabWork2\LabWork2\obj\Debug\LabWork2.pdb
