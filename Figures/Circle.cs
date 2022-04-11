@@ -8,21 +8,28 @@ using System.Windows.Forms;
 
 namespace LabWork2
 {
-    public class Circle : IFigure
+    public class Circle : Figure
     {
         protected int X { get; set; }
         protected int Y { get; set; }
         private int R { get; set; }
+        public override int Points { get; set ; }
 
         public Circle(int x, int y, int R)
         {
             X = x; Y = y; this.R = R;
         }
 
-        virtual public void Draw(PaintEventArgs e)
+        public Circle()
+        {
+            Points = 2;
+        }
+
+        override public void Draw(PaintEventArgs e, List<Point> points)
         {
             Pen pen = new Pen(Color.Red, 3);
-            e.Graphics.DrawEllipse(pen, X - R / 2, Y - R / 2, R, R);
+            R = points[0].X - points[1].X;
+            e.Graphics.DrawEllipse(pen, points[0].X - R / 2, points[0].Y - R / 2, R, R);
         }
     }
 }

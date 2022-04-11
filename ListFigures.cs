@@ -8,19 +8,25 @@ namespace LabWork2
 { 
 class ListFigures
 {
-    List<IFigure> figures;
+    private List<Figure> figures;
 
     public ListFigures()
     {
-        figures = new List<IFigure>();
-    }
+        figures = new List<Figure>();
+        //AddFigure(new Rectangle());
+        //AddFigure(new Square());
+        //AddFigure(new Rhomb());
+        //AddFigure(new Circle());
+        //AddFigure(new Ellipse());
+        //AddFigure(new Triangle());
+        }
 
-    public void AddFigure(IFigure figure)
+    public void AddFigure(Figure figure)
     {
         figures.Add(figure);
     }
 
-    public void PrintFigures()
+    public void PrintFigures(Figure figure)
     {
 
     }
